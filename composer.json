@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/Magebuzz_Free_Text_Search",
+    "name": "OpenMageModuleFostering\/Magebuzz_Free_Text_Search",
     "type": "magento-module",
     "license": "Open-Software-License-(OSL)",
     "homepage": "",
     "description": "Include CMS pages in search result",
     "authors": [
-    {
-        "name": "Magebuzz",
-        "email": "magebuzz@gmail.com"
-    }
-],
+        {
+            "name": "Magebuzz",
+            "email": "magebuzz@gmail.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
